@@ -1,0 +1,1 @@
+Upload the six files index.html, style.css, manifest.webmanifest, ethiopian-flag.png, icon-192.png, icon-512.png to the ROOT of your GitHub repository, replacing existing files. Do not upload the ZIP itself. After commit, wait for GitHub Pages deployment and hard-refresh the site. On iPhone remove the old Home Screen shortcut and add it again if the old icon remains.
